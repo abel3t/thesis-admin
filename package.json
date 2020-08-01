@@ -1,8 +1,9 @@
 {
-  "name": "@pick-bazar/admin",
+  "name": "thesis-admin",
   "version": "3.0.3",
   "private": true,
   "scripts": {
+    "start": "npm run serve",
     "dev": "react-scripts start",
     "admin": "react-scripts start",
     "build": "react-scripts build",

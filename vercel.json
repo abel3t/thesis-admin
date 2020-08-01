@@ -1,7 +1,7 @@
 {
   "build": {
     "env": {
-      "REACT_APP_API_URL": "http://localhost:4000/shop/graphql"
+      "REACT_APP_API_URL": "https://thesis-apis.vercel.app/admin/graphql"
     }
   }
 }
